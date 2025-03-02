@@ -9,7 +9,7 @@ temp = 0
 
 print (FirstNumber)
 print (SecondNumber)
-for i in range (0, index)
+for i in range (0, index):
     temp = FirstNumber + SecondNumber
     FirstNumber = SecondNumber
     SecondNumber = temp
