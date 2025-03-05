@@ -2,8 +2,9 @@ def primeOrNot (number):
     if number == 1:
       return "not a prime number"
     for i in range (2, number):
-        if (number % i ==0):
-            return "not a prime number"
+        if (number % i == 0):
+            print ("not a prime number") 
+            break
     else: 
         return "a prime number"
         
