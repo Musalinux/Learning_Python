@@ -17,7 +17,7 @@ while user_input.lower() != "stop":
     user_input = input("Enter the number and I will tell you if it is postive, negative, or 0\n ")
     
     if user_input.lower() == "stop":
-        print ("End of program")
+        print ("End of program") 
         break
 
     evaluation = check_number(user_input)
