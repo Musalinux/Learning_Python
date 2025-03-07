@@ -10,7 +10,8 @@ def matrix_multiplication(M1, M2):
     for i in range (len(M1)): # itereating rows
         for j in range (len(M2)): # Iterating columns
             M3[i][j] = M1[i][j] + M2[i][j]
-        print (f"i is {i}, j is {j}")
+            print (f"i is", i, "j is", j)
+            print (M3)
         
 M1 = [[10, 100, 230], 
      [40, 50, 60], 
