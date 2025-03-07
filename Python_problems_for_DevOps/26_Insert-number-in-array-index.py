@@ -19,4 +19,4 @@ number = int(input("Enter a number to insert in the array: \n"))
 index = int (input("Enter the index where you want to add this number: \n"))
 
 new_array = insertindex(number, index)
-print (f"The new array is {new_array}")
+print (f"The new array after inserting {number} is {new_array}")
