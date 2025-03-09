@@ -24,5 +24,5 @@ jenkins_url = 'http://jenkins.example.com'
 job_name = 'my-job'
 status = get_job_status(jenkins_url, job_name)
 
-if status is 'SUCCESS':
+if status is not 'SUCCESS':
     send_alert(job_name, status)
