@@ -1,0 +1,129 @@
+🚀 Final 1-Week J.P. Morgan Interview Preparation Plan
+We'll maximize your preparation while considering:
+✅ Your Subway shifts (travel + work time).
+✅ Your fasting schedule (focused study before Suhoor & after Iftar).
+✅ Your core topics (AWS, DevOps, Python, System Design, DSA, Behavioral).
+
+🔹 General Daily Plan (March 11 - March 18)
+🕒 Study Slots Based on Your Routine:
+✅ Morning (After waking up → Before Subway shift) → Theory-based topics (AWS, SDLC, System Design, Behavioral).
+✅ Night (After Subway & Iftar → Before Suhoor) → Coding, hands-on practice (Python, DSA, Terraform, DevOps).
+✅ Suhoor time (Last hour before Fajr) → Mock interview, revision.
+
+🗓 Daily Study Plan (March 11 - March 18)
+📅 March 11 (Monday)
+✅ Morning (10 AM - 12:30 PM)
+
+Review JPMC values & principles (Align answers with Amazon Leadership Principles).
+AWS Glue, EventBridge, Step Functions → Understand ETL, crawlers.
+🚀 Subway Shift: 1 PM - 8:30 PM (🚗 9:15 PM home)
+
+✅ Night (9:30 PM - 2 AM)
+
+Python Basics (OOP, Decorators, Exception Handling).
+DevOps Top Questions (CI/CD, Jenkins, Terraform, Kubernetes Basics).
+✅ Suhoor (4 AM - 5 AM)
+
+JPMC Behavioral Questions Practice.
+Mock "Tell Me About Yourself" & "Why JPMC?"
+📅 March 12 (Tuesday)
+✅ Morning (10 AM - 11:30 AM)
+
+Blue/Green Deployment, Canary, Rolling Updates.
+AWS Control Tower Basics.
+🚀 Subway Shift: 12 PM - 8:30 PM (🚗 9:15 PM home)
+
+✅ Night (9:30 PM - 2 AM)
+
+OOPs & SOLID principles revision (Real-world examples).
+Python for DevOps (Scripting, Boto3, Terraform, Docker).
+✅ Suhoor (4 AM - 5 AM)
+
+Mock "Most Challenging Project" & "Time you went above and beyond."
+📅 March 13 (Wednesday) - Full Study Day
+✅ Morning (10 AM - 2 PM)
+
+AWS CloudFormation vs Terraform (Hands-on with simple YAML & HCL files).
+SDLC full - Waterfall vs Agile vs DevOps.
+✅ Night (9 PM - 2 AM)
+
+Python DSA: Linked Lists, HashMaps, Binary Search.
+Mock "JPMC Clients & Competitors."
+✅ Suhoor (4 AM - 5 AM)
+
+Quick System Design discussion (AWS-based architecture for a secure microservices app).
+📅 March 14 (Thursday)
+✅ Morning (10 AM - 3 PM)
+
+AccuKnox experience (Deep dive into what you did + Security & DevSecOps concepts).
+MLOps: What I know + How to explain it clearly.
+🚀 Subway Shift: 4 PM - 10 PM (🚗 10:45 PM home)
+
+✅ Night (11 PM - 2 AM)
+
+AWS Glue, Step Functions Hands-on (Build a sample ETL pipeline).
+Mock "Criticism Handling & Working with a Team."
+✅ Suhoor (4 AM - 5 AM)
+
+Quick DevOps Pipeline Recap (Jenkins, CodePipeline, Kubernetes Basics).
+📅 March 15 (Friday)
+✅ Morning (9 AM - 11 AM)
+
+DevOps Scenario-based Questions (Jenkins failure, Kubernetes crash, AWS misconfiguration).
+🚀 Subway Shift: 11:30 AM - 6 PM (🚗 6:45 PM home)
+
+✅ Night (9 PM - 2 AM)
+
+Python DSA: Stacks, Queues, Sorting.
+Mock "Strengths & Weaknesses."
+✅ Suhoor (4 AM - 5 AM)
+
+AWS Interview Questions Quick Revision.
+📅 March 16 (Saturday) - Full Study Day
+✅ Morning (10 AM - 2 PM)
+
+Deep dive: System Design (Design a Scalable AWS System, S3 vs RDS vs DynamoDB).
+Terraform Hands-on (Deploy an AWS instance using Terraform).
+✅ Night (9 PM - 2 AM)
+
+Python: Multi-threading, Logging, API Calls.
+Mock "Why JPMC?" (Refine Answer).
+✅ Suhoor (4 AM - 5 AM)
+
+Revise DSA Core Concepts.
+📅 March 17 (Sunday)
+✅ Morning (10 AM - 2 PM)
+
+Final revision: AWS, Terraform, Python.
+JPMC JD Memorization (Understand the role completely).
+✅ Night (9 PM - 2 AM)
+
+Mock Interview with a Friend (Full-Length).
+✅ Suhoor (4 AM - 5 AM)
+
+Last-minute DevOps revision.
+📅 March 18 (Monday) - Final Day
+✅ Morning (10 AM - 11 AM)
+
+AWS & DevOps Quick Review.
+🚀 Subway Shift: 12 PM - 4 PM
+
+✅ Night (9 PM - 12 AM)
+
+Behavioral Question Answers Practice.
+✅ Suhoor (4 AM - 5 AM)
+
+Calm, Confidence, and Positive Mindset!
+📅 March 19 (Interview Day!)
+✅ Morning (Sleep well, quick revision of key points, stay relaxed).
+✅ Interview: Be Confident, Take a Deep Breath, and Give It Your Best!
+
+🚀 Final Tips to Crack J.P. Morgan
+✔ Explain Your Thought Process Clearly. If you’re stuck on a coding question, talk through your logic.
+✔ Don’t Memorize, Understand. Be ready to explain why you use a certain AWS service, not just what it does.
+✔ Behavioral Questions Matter. Have real examples for each leadership question.
+✔ Practice Talking! Even if alone, say your answers out loud—it builds confidence.
+
+This plan gives maximum focus on Python, AWS, DevOps, and System Design while balancing your Subway shifts and fasting schedule.
+
+🔥 You got this! Keep the momentum going, and you’re going to do great. 🚀
