@@ -1,4 +1,4 @@
-# sum of N numbers = n(n-1)/2
+# sum of N numbers = n(n+1)/2
 
 def sum_of_numbers(n):
   if n == 0:
