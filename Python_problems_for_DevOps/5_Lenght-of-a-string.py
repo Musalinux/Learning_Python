@@ -10,5 +10,5 @@ def str_length(myString):
 
 myString = input("Enter the string you want to find the length of\n ")
 
-str_length = str_length(myString)
-print ("This is the length of the given string: ", str_length)
+result = str_length(myString)
+print ("This is the length of the given string: ", result)

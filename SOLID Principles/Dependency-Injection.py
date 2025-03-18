@@ -12,7 +12,7 @@ D - Dependency Inversion Principle (DIP)
 # 💡 High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
 ### Bad Example (Violating DIP):
-class MySQLDatabase:
+class MySQLDatabase:    
     def connect(self):
         print("Connecting to MySQL database")
 
