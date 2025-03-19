@@ -1,17 +1,17 @@
-"""
-Problem: Given a list of words, group words that are anagrams of each other.
-"""
 from collections import defaultdict
 
-def group_anagrams(words):
-    anagrams = defaultdict(list)
-    
-    for word in words:
-        sorted_word = "".join(sorted(word))  # Sort letters to identify anagrams
-        anagrams[sorted_word].append(word)  # Group words with the same sorted form
-    
-    return list(anagrams.values())  # Return grouped anagrams
+def group_anagrams (strs): 
+    anagrams = defaultdict (list)
+    for word in strs: 
+        key = "".join(sorted(word))
+        anagrams[key].append(word)
+    return list (anagrams.values())
 
-# Example Usage
-words = ["eat", "tea", "tan", "ate", "nat", "bat"]
-print(group_anagrams(words))
+user_input = input ("Enter list of stringsL: \n")
+strs = (word.strip() for word in user_input.split(","))
+
+result = group_anagrams (strs)
+
+print ("Grouped anagrams are:")
+for group in result:
+    print (group)

@@ -1,3 +1,4 @@
+# Reverse a string 
 def str_rev (Mystring):
     reverseString = ""
     for i in MyString:
