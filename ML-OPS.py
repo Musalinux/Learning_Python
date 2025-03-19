@@ -14,9 +14,6 @@ I'll provide:
 
 ✅ Architecture Flow
 
-plaintext
-Copy
-Edit
 S3 (New Transactions) → EventBridge → Step Functions
   ↳ AWS Glue (ETL) → Preprocessed Data → SageMaker Model (Fraud Detection)
   ↳ If fraud detected → Store in S3 / DynamoDB → SNS Alert

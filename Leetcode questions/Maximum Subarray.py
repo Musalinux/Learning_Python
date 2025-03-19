@@ -1,6 +1,7 @@
 """
 Problem: Find the contiguous subarray with the largest sum.
 """
+# Using Kadane's Algorithm. 
 
 def max_subarray(nums):
     max_sum = nums[0]
