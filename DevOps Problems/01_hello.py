@@ -17,3 +17,10 @@ print (replaceName)
 text = "   Some spaces around   "
 stripped_text = text.strip()
 print("Stripped text:", stripped_text)
+
+substring = "is"
+
+if substring in name:
+    print ("found substring!")
+else:
+    print ("not found")
