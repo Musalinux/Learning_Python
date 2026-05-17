@@ -1,0 +1,23 @@
+We will be adding a few aliase to make our learning easier. 
+
+Open ZSH.
+nano ~/.zshrc 
+
+alias cls="clear"
+
+# Python shortcuts
+alias python="python3"
+alias pip="pip3"
+
+# GitHub shortcuts
+alias ga="git add ."
+alias gc="git commit -m"
+alias gp="git push"
+alias gs="git status"
+alias gco="git checkout"
+alias gb="git branch"
+
+
+once all aliases are updated do ctrl O (save), ctrl X (exit)
+Reload the zsh: 
+source ~/.zshrc
