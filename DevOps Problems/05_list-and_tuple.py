@@ -8,3 +8,14 @@ s3_bucket_list.append("new-bucket")
 
 print (s3_bucket_list)
 print (len((s3_bucket_list)))
+
+
+new_list = s3_bucket_list[0:2]
+print (new_list)
+
+print (s3_bucket_list[0] + "--" + s3_bucket_list[2])
+
+
+random_list = [1, 2, 3, "musa", "john", 1.5]
+
+print (random_list)
