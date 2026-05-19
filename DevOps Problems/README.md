@@ -1,4 +1,4 @@
-# GitHub → Jira Integration using Flask, Webhooks & ngrok 🚀
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/cd6d9ad4-8c42-4cc6-9897-bc1d9b32e22e" /><img width="1470" height="956" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/2ef966d5-a1ee-49de-bb54-2a616ec44fe4" /># GitHub → Jira Integration using Flask, Webhooks & ngrok 🚀
 
 This project demonstrates a simple DevOps automation workflow where a GitHub webhook triggers a Python Flask application, which then creates a Jira ticket automatically using the Jira REST API.
 
@@ -144,6 +144,7 @@ Output:
 Running on http://127.0.0.1:9000
 Running on http://192.168.x.x:9000
 ```
+<img width="1470" height="956" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/26c5645d-3203-4395-9d36-6efe7e289297" />
 
 ---
 
@@ -168,6 +169,7 @@ Example output:
 ```text
 Forwarding https://example.ngrok-free.app -> http://localhost:9000
 ```
+<img width="1470" height="956" alt="Pasted Graphic 3" src="https://github.com/user-attachments/assets/ca76238f-92ac-4b3b-9ef5-0d3f3cfc114e" />
 
 ---
 
@@ -184,6 +186,10 @@ Payload URL:
 ```text
 https://YOUR-NGROK-URL.ngrok-free.app/createJira
 ```
+<img width="1470" height="956" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/7ec6fa2f-38c5-4a92-9c15-610cf08e8cfb" />
+
+Webhook ping is now successful: 
+![Uploading Pasted Graphic 6.png…]()
 
 Content Type:
 
@@ -203,11 +209,19 @@ Issue comments
 
 Whenever the webhook is triggered, a Jira ticket is automatically created in the configured Jira project.
 
-Example created ticket:
+Journey: 
+1. User comments on the issue "/createJira":
+<img width="1470" height="956" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/4c8b414b-043a-4f61-96b0-1f11446a3878" />
 
-```text
-SCRUM-7 → Ticket created via GitHub Issue
-```
+2. This goes ahead and creates an issue on Jira:
+<img width="1470" height="956" alt="• Musa First Jea Project 11 -" src="https://github.com/user-attachments/assets/18623cba-4fee-4398-bd9a-6ba74a1cbc01" />
+
+3. You can verify creation of tickets via curl commands as well:
+<img width="1470" height="956" alt="Pasted Graphic 4" src="https://github.com/user-attachments/assets/4db30e9a-327f-4024-9cb1-d4016e2077a9" />
+
+4. Webhook confirming creation of issue comment:
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/3e8b68f9-589b-42aa-9765-7c8dbe3e0770" />
+
 
 ---
 
