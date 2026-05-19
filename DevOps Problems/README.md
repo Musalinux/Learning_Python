@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/cd6d9ad4-8c42-4cc6-9897-bc1d9b32e22e" /><img width="1470" height="956" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/2ef966d5-a1ee-49de-bb54-2a616ec44fe4" /># GitHub → Jira Integration using Flask, Webhooks & ngrok 🚀
+# GitHub → Jira Integration using Flask, Webhooks & ngrok 🚀
 
 This project demonstrates a simple DevOps automation workflow where a GitHub webhook triggers a Python Flask application, which then creates a Jira ticket automatically using the Jira REST API.
 
@@ -189,7 +189,7 @@ https://YOUR-NGROK-URL.ngrok-free.app/createJira
 <img width="1470" height="956" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/7ec6fa2f-38c5-4a92-9c15-610cf08e8cfb" />
 
 Webhook ping is now successful: 
-![Uploading Pasted Graphic 6.png…]()
+<img width="1470" height="956" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/4167942f-d1cd-47f3-ae01-09a7a609aebf" />
 
 Content Type:
 
